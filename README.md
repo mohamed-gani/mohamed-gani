@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋 I'm Mohamed Gani Mohamed Sulthan Computer Science Engineer
+#### Hi 👋 I'm Mohamed Gani Mohamed Sulthan 
 ----------------------------------
 
 ### Full Stack Developer
