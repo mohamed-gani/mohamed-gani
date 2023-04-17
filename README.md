@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 A Software Developer with around 3 years of professional experience in Java, Spring, Spring Boot, .NET Framework and Angular. Proven ability to quickly learn and apply new technologies and methodologies.
 
   🌍  I'm based in Cleveland, Ohio
+  
   🖥️  See my portfolio at https://mohamed-gani.github.io/mohamedgani.github.io/
 
 TECHNICAL SKILLS   
