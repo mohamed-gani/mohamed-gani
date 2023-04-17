@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 #### Hi 👋 I'm Mohamed Gani Mohamed Sulthan 
 ----------------------------------
-----------------------------------
-
 ### Full Stack Developer
 ----------------------------------
 A Software Developer with around 3 years of professional experience in Java, Spring, Spring Boot, .NET Framework and Angular. Proven ability to quickly learn and apply new technologies and methodologies.
