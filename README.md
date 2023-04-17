@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### Hi 👋 I'm Mohamed Gani Mohamed Sulthan
+----------------------------------
 
 ### Full Stack Developer
-
+----------------------------------
 A Software Developer with around 3 years of professional experience in Java, Spring, Spring Boot, .NET Framework and Angular. Proven ability to quickly learn and apply new technologies and methodologies.
 
   🌍  I'm based in Cleveland, Ohio
@@ -40,7 +41,7 @@ Tools and Cloud Technologies: Eclipse, Visual Studio and Visual Studio Code, Azu
 Versioning and Bug Tracking: Git, Jira
 
 CERTIFICATIONS    
-----------------------------------------
+----------------------------------
 Certification in Microsoft Azure AI-900 from Microsoft	2022
 
 Certification in Kubernetes from Walmart	2020
