@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **mohamed-gani/mohamed-gani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 I'm Mohamed Gani Mohamed Sulthan
+### Hi 👋 I'm Mohamed Gani Mohamed Sulthan
 
-Full Stack Developer
+### Full Stack Developer
 
 A Software Developer with around 3 years of professional experience in Java, Spring, Spring Boot, .NET Framework and Angular. Proven ability to quickly learn and apply new technologies and methodologies.
-🌍  I'm based in Cleveland, Ohio
-🖥️  See my portfolio at https://mohamed-gani.github.io/mohamedgani.github.io/
+
+  🌍  I'm based in Cleveland, Ohio
+  🖥️  See my portfolio at https://mohamed-gani.github.io/mohamedgani.github.io/
 
 TECHNICAL SKILLS   
 ----------------------------------
