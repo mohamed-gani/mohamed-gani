@@ -28,14 +28,21 @@ A Software Developer with around 3 years of professional experience in Java, Spr
 TECHNICAL SKILLS   
 ----------------------------------
 Languages: Java, C#, Python, C/C++
+
 Backend Technologies: Spring and Spring Boot Framework, Microservices, REST API, Web Development, Flask, .NET Core
+
 Frontend Technologies: Angular, JavaScript, HTML/CSS
+
 SQL and NoSQL Databases: MariaDB, MS SQL Server, MySQL, Azure Data Explorer, MongoDB
+
 Tools and Cloud Technologies: Eclipse, Visual Studio and Visual Studio Code, Azure, Kubernetes, Dynatrace, Splunk, Slack, Jenkins
+
 Versioning and Bug Tracking: Git, Jira
 
 CERTIFICATIONS    
 ----------------------------------------
-•	Certification in Microsoft Azure AI-900 from Microsoft	2022
-•	Certification in Kubernetes from Walmart	2020
-•	Certification in Core Java from NIIT
+Certification in Microsoft Azure AI-900 from Microsoft	2022
+
+Certification in Kubernetes from Walmart	2020
+
+Certification in Core Java from NIIT
