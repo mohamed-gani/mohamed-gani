@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi 👋 I'm Mohamed Gani Mohamed Sulthan
+Computer Science Engineer
 ----------------------------------
 
 ### Full Stack Developer
