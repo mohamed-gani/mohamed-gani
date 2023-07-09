@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Hi 👋 I'm Mohamed Gani Mohamed Sulthan 
-Full Stack Developer
+Full Stack Software Engineer
 ----------------------------------
 A Full Stack Software Engineer with over three years of hands-on experience in Java Backend, Python, and .NET Framework development. Expertise in designing and implementing robust, scalable solutions using Microservices, Spring Framework, and J2EE Technologies. Demonstrated proficiency in leveraging AWS and Azure cloud services, implementing CI/CD pipelines, and managing Kubernetes deployments.. Proven ability to quickly learn and apply new technologies and methodologies.
 
