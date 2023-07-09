@@ -18,25 +18,34 @@ Here are some ideas to get you started:
 #### Hi 👋 I'm Mohamed Gani Mohamed Sulthan 
 Full Stack Developer
 ----------------------------------
-A Software Developer with around 3 years of professional experience in Java, Spring, Spring Boot, .NET Framework and Angular. Proven ability to quickly learn and apply new technologies and methodologies.
+A Full Stack Software Engineer with over three years of hands-on experience in Java Backend, Python, and .NET Framework development. Expertise in designing and implementing robust, scalable solutions using Microservices, Spring Framework, and J2EE Technologies. Demonstrated proficiency in leveraging AWS and Azure cloud services, implementing CI/CD pipelines, and managing Kubernetes deployments.. Proven ability to quickly learn and apply new technologies and methodologies.
 
   🌍  I'm based in Cleveland, Ohio
   
   🖥️  See my portfolio at https://mohamed-gani.github.io/mohamedgani.github.io/
 
-TECHNICAL SKILLS   
+SKILLS   
 ----------------------------------
-Languages: Java, C#, Python, C/C++
+Languages: Java, Python, C#, JavaScript
 
-Backend Technologies: Spring and Spring Boot Framework, Microservices, REST API, Web Development, Flask, .NET Core
+Cloud Technologies: Azure, AWS EC2, AWS Lambda, AWS SQS, AWS SNS, AWS S3
 
-Frontend Technologies: Angular, JavaScript, HTML/CSS
+DevOps: Docker, Kubernetes, Jenkins, CI/CD, Dynatrace, Splunk, Sonarqube, WCNP
 
-SQL and NoSQL Databases: MariaDB, MS SQL Server, MySQL, Azure Data Explorer, MongoDB
+Frameworks: Spring Boot, Spring MVC, Hibernate, Microservices, Maven, Gradle, Servlets, JSP, JavaBeans, JDBC
 
-Tools and Cloud Technologies: Eclipse, Visual Studio and Visual Studio Code, Azure, Kubernetes, Dynatrace, Splunk, Slack, Jenkins
+Web Technologies: NodeJS, Angular, HTML, CSS, jQuery, Ajax, JSON
+
+Databases: SQL Databases, Redis, MariaDB, Mongodb (No-sql), Neo4j, HBase, Cassandra, Azure Data Explorer
+
+Soft Skills: Collaborate, Competitive, Dedicated, Ability to Mentor Others, Leadership Skills, Organizational Skills
 
 Versioning and Bug Tracking: Git, Jira
+
+Education    
+----------------------------------
+Cleveland State University - Master of Science in Computer Science - Cleveland, OH
+Anna University - Bachelor of Engineering in Computer Science - Chennai, India
 
 CERTIFICATIONS    
 ----------------------------------
