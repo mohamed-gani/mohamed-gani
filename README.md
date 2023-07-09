@@ -45,6 +45,7 @@ Versioning and Bug Tracking: Git, Jira
 Education    
 ----------------------------------
 Cleveland State University - Master of Science in Computer Science - Cleveland, OH
+
 Anna University - Bachelor of Engineering in Computer Science - Chennai, India
 
 CERTIFICATIONS    
