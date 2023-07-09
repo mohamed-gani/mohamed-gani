@@ -24,7 +24,7 @@ A Full Stack Software Engineer with over three years of hands-on experience in J
   
   🖥️  See my portfolio at https://mohamed-gani.github.io/mohamedgani.github.io/
 
-SKILLS   
+Skills   
 ----------------------------------
 Languages: Java, Python, C#, JavaScript
 
@@ -48,7 +48,7 @@ Cleveland State University - Master of Science in Computer Science - Cleveland, 
 
 Anna University - Bachelor of Engineering in Computer Science - Chennai, India
 
-CERTIFICATIONS    
+Certifications   
 ----------------------------------
 Certification in Microsoft Azure AI-900 from Microsoft	2022
 
